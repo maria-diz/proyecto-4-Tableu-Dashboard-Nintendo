@@ -8,13 +8,11 @@ A medida que avanzáis en las lecciones, iréis aplicando los conocimientos adqu
 
 ## 📧 Colaboración
 
-<maria.diz@hotmail.com>
+<maria.diz@hotmail.com>  [LinkedIn María Diz](https://www.linkedin.com/in/maria-diz/)
 
-<jackeline_yusti@yahoo.com>
+<jackeline_yusti@yahoo.com>  [LinkedIn Jacqueline Yusti](https://www.linkedin.com/in/jacquelineyusti/)
 
-[LinkedIn María Diz](https://www.linkedin.com/in/maria-diz/)
 
-[LinkedIn Jacqueline Yusti](https://www.linkedin.com/in/jacquelineyusti/)
 
 <img width="1678" alt="1" src="https://github.com/user-attachments/assets/d37642eb-4748-48b8-8545-61d1cc8ababc">
 
