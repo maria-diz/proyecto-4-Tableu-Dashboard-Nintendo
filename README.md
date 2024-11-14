@@ -1,4 +1,10 @@
-# proyecto-4-Tableu-Dashboard-Nintendo
+# Ejercicio de pair programing para proyecto-4-Tableu-Dashboard-Nintendo
+## 🎯 Objetivos
+En este ejercicio de pair programming, daréis un paso hacia la independencia. ¿Qué debéis hacer?
+
+Elegid un tema de vuestro interés y comenzad a investigar hasta encontrar una fuente de datos adecuada para vuestro proyecto.
+
+A medida que avanzáis en las lecciones, iréis aplicando los conocimientos adquiridos: desde la creación de diferentes tipos de gráficas y la selección de paletas de colores apropiadas, hasta la creación de campos calculados, la construcción de dashboards y la elaboración de vuestras historias de datos.
 
 <img width="1678" alt="1" src="https://github.com/user-attachments/assets/d37642eb-4748-48b8-8545-61d1cc8ababc">
 
