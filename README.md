@@ -6,6 +6,16 @@ Elegid un tema de vuestro interés y comenzad a investigar hasta encontrar una f
 
 A medida que avanzáis en las lecciones, iréis aplicando los conocimientos adquiridos: desde la creación de diferentes tipos de gráficas y la selección de paletas de colores apropiadas, hasta la creación de campos calculados, la construcción de dashboards y la elaboración de vuestras historias de datos.
 
+## 📧 Colaboración
+
+<maria.diz@hotmail.com>
+
+<jackeline_yusti@yahoo.com>
+
+[LinkedIn María Diz](https://www.linkedin.com/in/maria-diz/)
+
+[LinkedIn Jacqueline Yusti](https://www.linkedin.com/in/jacquelineyusti/)
+
 <img width="1678" alt="1" src="https://github.com/user-attachments/assets/d37642eb-4748-48b8-8545-61d1cc8ababc">
 
 <img width="1678" alt="2" src="https://github.com/user-attachments/assets/61cf98ca-4670-40ab-a163-304507d84d0c">
